@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Welcome Call Scheduling",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms the welcome call with the relocation specialist. It aims to reassure the employee and set expectations for the next steps in the relocation process.",
+  "Events": [
+    {
+      "Event name": "Welcome Call",
+      "Date": "2024-07-18",
+      "Time": "14:00 null",
+      "Property Type": null,
+      "Agent Name": "Sarah Miller",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA0e259fe8a2d44227abd38bc515f7015dBG0fd77fa9adAAAAAAAf88e179180294aa69955AAA=",
+  "thread_id": "AAQkA3834df13c56c47d6b1760effb1030aa4AQAP4ca4210024fc431bb2a7="
+}

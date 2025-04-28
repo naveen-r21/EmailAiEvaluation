@@ -1,0 +1,43 @@
+// Parsing error or invalid JSON, saving raw model output:
+
+```json
+{
+  "input_email_data": {
+    "mail_id": "msg-492b7d1a-839c-47e2-a1b4-9f3c5d7e6a10",
+    "file_name": [],
+    "email": "housing.support@moveasy.com",
+    "mail_time": "2024-10-27T14:35:00Z",
+    "body_type": "text",
+    "mail_body": "Subject: Move-In Checklist and Utility Confirmation - Welcome to Your New Home!\n\nDear Sarah Johnson,\n\nWelcome to your new home! We're excited to have you. To ensure a smooth transition, we've prepared a move-in checklist for you. This includes confirming your utility setup. \n\nCould you please confirm that you've contacted City Power & Light (electricity) and GasCo (gas) to schedule your connection for November 1st, 2024? Their contact numbers are listed below for your convenience:\n\nCity Power & Light: 555-123-4567\nGasCo: 555-987-6543\n\nAlso, please remember to bring your identification documents (driver's license or passport) for the key handover at our office on October 31st at 2:00 PM.\n\nPlease let us know if you have any questions.\n\nBest regards,\n\nDavid Miller\nMoveEasy Housing Support",
+    "thread_id": "thread-9a8f2c5b-6d4e-41f0-b87a-3e6d9c4b2a1f",
+    "mail_summary": ""
+  },
+  "output_email_data": {
+    "Sentiment analysis": "green",
+    "overall_sentiment_analysis": "positive",
+    "feature": "Utility Setup & Document Collection",
+    "category": "Settling-In Services",
+    "Summary": "MoveEasy Housing Support welcomes Sarah Johnson to her new home and requests confirmation of utility setup (electricity and gas) with City Power & Light and GasCo, scheduled for November 1st, 2024. They also remind her to bring identification for key handover at their office on October 31st at 2:00 PM.",
+    "Events": [
+      {
+        "Event name": "Utility Setup Confirmation",
+        "Date": "2024-11-01",
+        "Time": null,
+        "Agent Name": null,
+        "Location": null,
+        "Details": "Confirmation of electricity and gas connection with City Power & Light and GasCo."
+      },
+      {
+        "Event name": "Key Handover",
+        "Date": "2024-10-31",
+        "Time": "14:00",
+        "Agent Name": "David Miller",
+        "Location": "MoveEasy Housing Support Office",
+        "Details": "Key handover, requires presentation of identification documents (driver's license or passport)."
+      }
+    ],
+    "mail_id": "msg-492b7d1a-839c-47e2-a1b4-9f3c5d7e6a10",
+    "thread_id": "thread-9a8f2c5b-6d4e-41f0-b87a-3e6d9c4b2a1f"
+  }
+}
+```

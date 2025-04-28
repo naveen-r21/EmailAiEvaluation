@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "Property Viewing Follow-up",
+  "category": "Initial Service Milestones",
+  "Summary": "The relocation agent informs the client that the property search is not going well due to the competitive market and disappointing property viewings. The agent suggests reconsidering the budget or expanding the search area.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-07-18",
+      "Time": "14:00 PM",
+      "Property Type": null,
+      "Agent Name": "John Smith",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA1e688529e1fe41258ed881059172174eBGf9ad31619dAAAAAAA9a653b1f4c084db0a7beAAA=",
+  "thread_id": "AAQkAf9b02a810de341ed855a46cf08ab552dAQAP60ce09fdb7674445b0a2="
+}

@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Apartment Search & Scheduling",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms the relocation service request for John Doe moving to Austin. Agent Sarah Miller will find a furnished apartment, with options available by the end of the week. A call is scheduled for October 28th at 2:00 PM CST to discuss the options.",
+  "Events": [
+    {
+      "Event name": "Apartment Options Review",
+      "Date": "2024-10-28",
+      "Time": "02:00 PM",
+      "Property Type": "Furnished",
+      "Agent Name": "Sarah Miller",
+      "Location": "Austin"
+    }
+  ],
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "thread_id": "thread-12345"
+}

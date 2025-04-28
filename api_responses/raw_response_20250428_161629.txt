@@ -1,0 +1,20 @@
+API Endpoint: https://mlemailintegrationservices-gef9fwepguapgwfr.eastus2-01.azurewebsites.net/test_extraction
+Status Code: 200
+
+Request Headers: {'Content-Type': 'application/json', 'Accept': 'application/json'}
+
+Request Body:
+{
+  "mail_id": "AAMkAfeae69d42a7942f58deb988253886483BG0c00a845e9AAAAAAA2f77718db76f42ec8e05AAA=",
+  "file_name": [],
+  "email": "timothywillis@example.com",
+  "mail_time": "2024-09-09T00:00:00Z",
+  "body_type": "html",
+  "mail_body": "Dear Mr. Jones,\n\nI am writing to express my extreme dissatisfaction with the service I received regarding my recent relocation.  The property viewing scheduled with Agent Smith was a complete waste of my time. The property, described as 'spacious and modern,' was far from it.  The photos provided online were clearly misleading, and the actual condition of the property was significantly below expectations.  Furthermore, the agent was late and unprepared, showing a lack of professionalism that is frankly unacceptable for a company of your supposed caliber.  I expect a significant improvement in service and a more accurate representation of properties in the future.  I am considering pursuing alternative relocation services due to this disappointing experience.\n\nSincerely,\nJohn Doe",
+  "thread_id": "AAQkA4b624c9e888f4f6aa8c04811418aac8fAQAPc53e1fa7346c42c49bdb=",
+  "mail_summary": ""
+}
+
+Response Headers: {'Content-Length': '688', 'Content-Type': 'application/json', 'Date': 'Mon, 28 Apr 2025 10:46:27 GMT', 'Server': 'uvicorn'}
+
+Response Text: {"Sentiment analysis":"red","overall_sentiment_analysis":"negative","feature":"no feature","category":"no category","Summary":"John Doe expressed extreme dissatisfaction with the service he received regarding his recent relocation, particularly criticizing the property viewing with Agent Smith. He described the property as misleading and below expectations, and noted the agent's lack of professionalism. He expects significant improvement in service and is considering alternative relocation services.","Events":[],"mail_id":"AAMkAfeae69d42a7942f58deb988253886483BG0c00a845e9AAAAAAA2f77718db76f42ec8e05AAA=","thread_id":"AAQkA4b624c9e888f4f6aa8c04811418aac8fAQAPc53e1fa7346c42c49bdb="}

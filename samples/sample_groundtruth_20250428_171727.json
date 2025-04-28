@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Housing arrangement and specialist contact",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms the relocation to Austin, Texas, introduces the relocation specialist Sarah Jones, confirms a furnished apartment at 123 Main Street, and schedules a call for October 28th to finalize details.",
+  "Events": [
+    {
+      "Event name": "Initial Consultation with Relocation Specialist",
+      "Date": "2024-10-28",
+      "Time": "10:00 AM CST",
+      "Property Type": "Furnished",
+      "Agent Name": "Sarah Jones",
+      "Location": "Austin, TX"
+    }
+  ],
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "thread_id": "thread_a1b2c3d4-e5f6-7890-1234-567890abcdef"
+}

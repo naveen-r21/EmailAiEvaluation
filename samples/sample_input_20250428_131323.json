@@ -1,0 +1,10 @@
+{
+  "mail_id": "email-1234",
+  "file_name": [],
+  "email": "john.doe@example.com",
+  "mail_time": "2024-07-15T10:00:00Z",
+  "body_type": "text",
+  "mail_body": "Subject: Excited about our School Search Assistance!\n\nDear Relocation Team,\n\nI'm writing to express how pleased I am with the initial steps you've taken to assist us with our school search in Chicago. My family and I are very excited about our upcoming move, and finding the right school for our children is a top priority.\n\nWe especially appreciate the detailed list of schools you provided, along with the information on their academic performance and extracurricular activities. It's been incredibly helpful in narrowing down our options.\n\nWe're looking forward to discussing the next steps, including scheduling visits to our top choices. Please let me know when you're available for a call next week to coordinate.\n\nThanks again for your outstanding support!\n\nSincerely,\nJohn Doe",
+  "thread_id": "thread-5678",
+  "mail_summary": ""
+}

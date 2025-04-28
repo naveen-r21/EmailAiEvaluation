@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Pre-Move Consultation",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a pre-move consultation to discuss relocation preferences and answer questions about available properties and the relocation process. It expresses excitement about helping the employee find a new home.",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Sarah Miller",
+      "Location": "[City name]"
+    }
+  ],
+  "mail_id": "AAMkA84d25e3901204a45bbe864db27884595BG69723f219aAAAAAAAa2b4c03adb37405782e9AAA=",
+  "thread_id": "AAQkA647f0c0c7aad40f6a430ea13512570ccAQAP971a9e01d0b1437b8dc9="
+}

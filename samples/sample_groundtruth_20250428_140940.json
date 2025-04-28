@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Initial Needs Assessment",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms the initial phone consultation with the relocation specialist. It highlights the purpose of the call and expresses excitement about helping the employee find a home.",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "2024-07-18",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Sarah Miller",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA9c814524ce1d4722805207abdeea024bBG0e50a69843AAAAAAA8bae265b652a4bfe86d4AAA=",
+  "thread_id": "AAQkA6b3f624e66fe41168a8a3eac5ad7e669AQAPecbb67f9b5954b1db512="
+}

@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "Property Viewing Scheduling and Information",
+  "category": "Initial Service Milestones",
+  "Summary": "The client expresses strong dissatisfaction with a property viewing, citing significant discrepancies between the listing and the actual property condition and cleanliness.  They plan to file a formal complaint.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Agent Smith",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA358f50b8fe5847ebb2a28ccebc0db23aBG0570e29956AAAAAAAec6a8198ccef4f5688eeAAA=",
+  "thread_id": "AAQkAe51597a4f0914b9a8502ffc7db10ffbaAQAP74f2818efa9940e7bbc7="
+}

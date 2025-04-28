@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "no feature",
+  "category": "no category",
+  "Summary": "Dear [Client Name], I'm writing to you with an update on your property search, and frankly, it's not good news. Despite our best efforts, the options within your budget and preferred location are proving extremely limited. We've shown you everything that remotely fits your criteria, and the feedback has been consistently negative. To be blunt, your expectations may be unrealistic given the current market conditions. We're spending considerable time and resources on this search, and I'm starting to question whether we can actually find a suitable property for you. I understand this is frustrating, but I need you to seriously consider adjusting your requirements or increasing your budget. Otherwise, I'm not sure how much further we can progress. We have a viewing scheduled for you tomorrow, but honestly, I don't have high hopes. Regards, John Smith, Relocation Specialist",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-06-13",
+      "Time": null,
+      "Property Type": null,
+      "Agent Name": "John Smith",
+      "Location": null
+    }
+  ],
+  "mail_id": "AAMkA8533878275744dc0b0c4e7c4883e0a74BGa943d6834dAAAAAAA9dd3eb5650924d468d54AAA=",
+  "thread_id": "AAQkAe787c3d32a0e42a4a0d89988b819ad2cAQAP3115ae7da3d546388ee7="
+}

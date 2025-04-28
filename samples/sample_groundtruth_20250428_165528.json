@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "Property Viewing & Selection",
+  "category": "Initial Service Milestones",
+  "Summary": "The client expresses strong dissatisfaction with a property viewing, citing misleading photos and a significant discrepancy between the advertised and actual condition of the property.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-03-27",
+      "Time": "14:00 PM",
+      "Property Type": null,
+      "Agent Name": "Sarah Miller",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkAb80b9c6576044a6f8b4fd53d357a5850BG1193579900AAAAAAA9bb00b5151c444f2b4fbAAA=",
+  "thread_id": "AAQkA93df8a7212a84d16ac7d062dda2864bbAQAPbbf879e98c294845a5f5="
+}

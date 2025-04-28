@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Initial Relocation Consultation",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a phone consultation to discuss relocation needs and preferences with the employee.  It sets the stage for a positive and personalized relocation experience.",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Sarah Miller",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA3b50c89cc16347599a71870faab5ddeaBG9dd9663fc4AAAAAAAaaf353ac809442d3a888AAA=",
+  "thread_id": "AAQkA1eda55cf5e9c4b06aa1496cd42b7fa54AQAP7afb74a3cb87469a9fd7="
+}

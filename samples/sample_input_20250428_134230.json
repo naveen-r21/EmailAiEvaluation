@@ -1,0 +1,10 @@
+{
+  "mail_id": "email-1234",
+  "file_name": [],
+  "email": "john.doe@example.com",
+  "mail_time": "2024-07-15T10:00:00Z",
+  "body_type": "text",
+  "mail_body": "Subject: Excited to help with your School Search!\n\nDear [Client Name],\n\nI'm so excited to be assisting you with your school search in the new city! We're pleased to offer our expertise in finding the perfect educational fit for your children. \n\nWe've already compiled a list of top-rated schools based on your initial preferences, including public and private options. We're looking forward to discussing these options with you in more detail during our call next week.\n\nWe can schedule a call for Monday, July 22nd at 2:00 PM to go over the school profiles and discuss your priorities. Please let me know if this time works for you, or if you'd prefer an alternative.\n\nLooking forward to hearing from you soon!\n\nBest regards,\nJohn Doe\nRelocation Specialist",
+  "thread_id": "thread-5678",
+  "mail_summary": ""
+}

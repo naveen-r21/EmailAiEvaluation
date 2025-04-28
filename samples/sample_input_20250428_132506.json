@@ -1,0 +1,10 @@
+{
+  "mail_id": "email-1234",
+  "file_name": [],
+  "email": "john.doe@example.com",
+  "mail_time": "2024-07-15T10:00:00Z",
+  "body_type": "text",
+  "mail_body": "Subject: Urgent: Issue with School Search Assistance\n\nDear Sarah,\n\nI am writing to express my disappointment with the school search assistance I have received so far. I was under the impression that your team would provide a shortlist of suitable schools based on my children's needs and our location preferences. However, the information provided has been generic and not particularly helpful.\n\nI am particularly concerned about the lack of progress. We are scheduled to move on August 15th, and I need to finalize school enrollment as soon as possible. The delayed response and inadequate support are causing significant stress and anxiety for my family.\n\nI would appreciate it if you could address this issue urgently and provide a more tailored and timely service. I need a list of schools that meet our criteria by July 22nd, otherwise, I will have to explore alternative options.\n\nSincerely,\nJohn Doe",
+  "thread_id": "thread-5678",
+  "mail_summary": ""
+}

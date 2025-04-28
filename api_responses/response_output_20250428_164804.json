@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "DSC First Contact with EE, Phone Consultation Scheduled",
+  "category": "Initial Service Milestones",
+  "Summary": "Dear [Employee Name], We're thrilled to be assisting you with your relocation to [City name]! We're excited to help make this transition as smooth as possible. To get started, we've scheduled a brief phone consultation to discuss your specific needs and preferences. During this call, we'll go over your housing requirements, timeline, and any other questions you may have. We'll also provide you with an overview of the available resources and services we offer to support your move. We look forward to speaking with you soon! Sincerely, The [Relocation Company Name] Team",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "null",
+      "Time": "null",
+      "Property Type": "null",
+      "Agent Name": "null",
+      "Location": "null"
+    }
+  ],
+  "mail_id": "AAMkA4713bc68b05243319501b5f4dca8ca1cBG511ec5ca6bAAAAAAA9d381bdeb7c144218693AAA=",
+  "thread_id": "AAQkA72d5a943e1e248f5a8968634b9e43727AQAP3df6e909db0b4208a2c9="
+}

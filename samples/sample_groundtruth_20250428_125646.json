@@ -1,0 +1,18 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Housing Assistance and Utility Setup",
+  "category": "Settling-In Services",
+  "Summary": "Relocation Services confirms a property viewing and mentions scheduling a utility setup discussion.",
+  "Events": [
+    {
+      "Event name": "House Visit",
+      "Date": "2024-11-20",
+      "Time": "10:00",
+      "Agent Name": "John Doe",
+      "Location": "Chicago"
+    }
+  ],
+  "mail_id": "email123",
+  "thread_id": "thread456"
+}

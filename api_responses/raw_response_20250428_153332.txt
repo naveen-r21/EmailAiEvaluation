@@ -1,0 +1,20 @@
+API Endpoint: https://mlemailintegrationservices-gef9fwepguapgwfr.eastus2-01.azurewebsites.net/test_extraction
+Status Code: 200
+
+Request Headers: {'Content-Type': 'application/json', 'Accept': 'application/json'}
+
+Request Body:
+{
+  "mail_id": "AAMkA6333b70d6f3c4755abb643cd7f7e14aaBGbb31575f5aAAAAAAA47db581ae48a46d99057AAA=",
+  "file_name": [],
+  "email": "maria92@example.com",
+  "mail_time": "2024-03-04T00:00:00Z",
+  "body_type": "html",
+  "mail_body": "Hi [Employee Name],\n\nHope you're having a great week!\n\nFollowing up on our initial conversation, I'm thrilled to confirm your upcoming property viewing in London. We've lined up a fantastic selection of furnished apartments that I think you'll absolutely love. \n\nTo recap, your viewing is scheduled for:\n\nDate: 2024-07-18\nTime: 10:00 AM\nAgent: Sarah Miller\n\nSarah will meet you at the first property on the list and guide you through the rest. She's incredibly knowledgeable about the London rental market and can answer any questions you might have. Please don't hesitate to reach out if you have any questions before then.\n\nWe're really excited to help you find the perfect place in London!\n\nBest regards,\n\n[Relocation Agent Name]\n[Relocation Company Name]",
+  "thread_id": "AAQkA54d467dfc11447ee9ff1bd20f459da1eAQAP6ea5f62f2bc347c9afb0=",
+  "mail_summary": ""
+}
+
+Response Headers: {'Content-Length': '1092', 'Content-Type': 'application/json', 'Date': 'Mon, 28 Apr 2025 10:03:25 GMT', 'Server': 'uvicorn'}
+
+Response Text: {"Sentiment analysis":"green","overall_sentiment_analysis":"positive","feature":"Phone Consultation Scheduled","category":"Initial Service Milestones","Summary":"Hi [Employee Name], Hope you're having a great week! Following up on our initial conversation, I'm thrilled to confirm your upcoming property viewing in London. We've lined up a fantastic selection of furnished apartments that I think you'll absolutely love. To recap, your viewing is scheduled for 2024-07-18 at 10:00 AM with Agent Sarah Miller. She's incredibly knowledgeable about the London rental market and can answer any questions you might have. Please don't hesitate to reach out if you have any questions before then. We're really excited to help you find the perfect place in London!","Events":[{"Event name":"Property Viewing","Date":"2024-07-18","Time":"10:00 AM/null","Property Type":"furnished","Agent Name":"Sarah Miller","Location":"London"}],"mail_id":"AAMkA6333b70d6f3c4755abb643cd7f7e14aaBGbb31575f5aAAAAAAA47db581ae48a46d99057AAA=","thread_id":"AAQkA54d467dfc11447ee9ff1bd20f459da1eAQAP6ea5f62f2bc347c9afb0="}

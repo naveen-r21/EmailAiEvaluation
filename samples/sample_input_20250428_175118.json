@@ -1,0 +1,10 @@
+{
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "file_name": [],
+  "email": "relocation.agent@example.com",
+  "mail_time": "2024-10-27T14:30:00Z",
+  "body_type": "html",
+  "mail_body": "Dear John Doe,\n\nThank you for choosing our relocation services! We're thrilled to assist you with your move to Austin.  We've made excellent progress on securing your new furnished apartment.  Your move-in date is scheduled for November 15th, 2024.  We've also confirmed your preferred neighborhood, close to Zilker Park.  We'll send you the final lease agreement and property details within 24 hours.  In the meantime, please don't hesitate to reach out if you have any questions.\n\nSincerely,\nAgent Sarah Lee\nRelocation Services\nAustin, TX",
+  "thread_id": "thread-abcdef123456",
+  "mail_summary": "Confirmation of furnished apartment in Austin for John Doe, move-in date set for November 15th."
+}

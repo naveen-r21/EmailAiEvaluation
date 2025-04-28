@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Phone Consultation Scheduled",
+  "category": "Initial Service Milestones",
+  "Summary": "Dear [Employee Name], We're thrilled to be assisting you with your relocation to [City name]! We've scheduled a brief phone consultation for 2024-03-15 at 10:00 AM with Agent Amelia Hernandez to discuss your preferences and answer any questions you may have. Please let us know if this time works for you. We look forward to speaking with you soon! Sincerely, The Relocation Team",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM/null",
+      "Property Type": null,
+      "Agent Name": "Amelia Hernandez",
+      "Location": null
+    }
+  ],
+  "mail_id": "AAMkA71682314250f4aaea0d68c336d9847e5BGa4f3471b7fAAAAAAA5e4669e87a71447db689AAA=",
+  "thread_id": "AAQkAdb5eaeb1c35b4ab8aa87be8247a6ac3eAQAPaacc0eeaaf73452a87bc="
+}

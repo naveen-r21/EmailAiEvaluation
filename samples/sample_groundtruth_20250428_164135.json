@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Initial Consultation Scheduling",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a phone consultation to discuss relocation needs and preferences with the employee.  It sets a positive and helpful tone.",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Amelia Hernandez",
+      "Location": "[City name]"
+    }
+  ],
+  "mail_id": "AAMkA6f02a7137e86449cb5740bb0e723eaa5BG030a6c1410AAAAAAA6cbb6badb05f4c30bbb4AAA=",
+  "thread_id": "AAQkA5f747919cc95434580fe530a0e6e5af7AQAPe6b4f6301d854d898f18="
+}

@@ -1,0 +1,20 @@
+API Endpoint: https://mlemailintegrationservices-gef9fwepguapgwfr.eastus2-01.azurewebsites.net/test_extraction
+Status Code: 200
+
+Request Headers: {'Content-Type': 'application/json', 'Accept': 'application/json'}
+
+Request Body:
+{
+  "mail_id": "AAMkA10afa2f82e4c430187b532ece4161ca0BGf52ddec9d3AAAAAAA6d5a3cef1c0b4f28a7f0AAA=",
+  "file_name": [],
+  "email": "stephanie87@example.net",
+  "mail_time": "2024-06-03T00:00:00Z",
+  "body_type": "html",
+  "mail_body": "Dear [Employee Name],\n\nWe're thrilled to be assisting you with your relocation to [City name]!  We're excited to get started and ensure a smooth transition for you.\n\nAs a next step, we've scheduled a brief phone consultation to discuss your specific needs and preferences in more detail. This will help us personalize your relocation experience and ensure we find the perfect accommodation for you.\n\nPlease find the details of the call below:\n\nDate: 2024-03-15\nTime: 10:00 AM\nAgent:  Amelia Hernandez\n\nWe look forward to speaking with you soon!\n\nSincerely,\nThe Relocation Team",
+  "thread_id": "AAQkAe14dff8ef4e94963b217dc50a57f3eb6AQAPcf92e765671d4f5183cf=",
+  "mail_summary": ""
+}
+
+Response Headers: {'Content-Length': '1062', 'Content-Type': 'application/json', 'Date': 'Mon, 28 Apr 2025 11:14:25 GMT', 'Server': 'uvicorn'}
+
+Response Text: {"Sentiment analysis":"green","overall_sentiment_analysis":"positive","feature":"Phone Consultation Scheduled","category":"Initial Service Milestones","Summary":"Dear [Employee Name], We're thrilled to be assisting you with your relocation to [City name]! We're excited to get started and ensure a smooth transition for you. As a next step, we've scheduled a brief phone consultation to discuss your specific needs and preferences in more detail. This will help us personalize your relocation experience and ensure we find the perfect accommodation for you. Please find the details of the call below: Date: 2024-03-15 Time: 10:00 AM Agent: Amelia Hernandez. We look forward to speaking with you soon! Sincerely, The Relocation Team","Events":[{"Event name":"Phone Consultation","Date":"2024-03-15","Time":"10:00 AM/null","Property Type":null,"Agent Name":"Amelia Hernandez","Location":null}],"mail_id":"AAMkA10afa2f82e4c430187b532ece4161ca0BGf52ddec9d3AAAAAAA6d5a3cef1c0b4f28a7f0AAA=","thread_id":"AAQkAe14dff8ef4e94963b217dc50a57f3eb6AQAPcf92e765671d4f5183cf="}

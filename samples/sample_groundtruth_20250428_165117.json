@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Relocation Consultation Scheduling",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a relocation consultation appointment in London to discuss accommodation preferences and answer relocation process questions.",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Amelia Hernandez",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA4f74dd49fc0b4131bd138fb074078ee0BG7ae5d33d2bAAAAAAA44736237fd2a45dfbf10AAA=",
+  "thread_id": "AAQkA028a627c1cce4992b04783757743486fAQAPb0141385a8b14f26bebb="
+}

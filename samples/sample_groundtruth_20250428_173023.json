@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "Property Condition and Amenities",
+  "category": "Initial Service Milestones",
+  "Summary": "Client expresses extreme dissatisfaction with the condition of their furnished apartment in Austin, TX.  The apartment lacked promised amenities (internet), the furniture was damaged and insufficient, and the agent was unresponsive.  The client demands reimbursement for additional expenses incurred.",
+  "Events": [
+    {
+      "Event name": "Move-in to furnished apartment",
+      "Date": null,
+      "Time": null,
+      "Property Type": "Furnished",
+      "Agent Name": "Smith",
+      "Location": "Austin"
+    }
+  ],
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "thread_id": "thread_12345"
+}

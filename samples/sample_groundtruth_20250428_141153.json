@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Housing Needs Assessment & Property Viewing",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a scheduled call with a local expert to discuss housing needs and a property viewing for an employee relocating to London. It aims to reassure the employee and provide support during the relocation process.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-07-18",
+      "Time": "14:00 PM",
+      "Property Type": null,
+      "Agent Name": "Sarah Miller",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA667a6ad9e7a74568a41a64dd78f9abb2BGae6b198d28AAAAAAAd015da7fc01c4afeb4c0AAA=",
+  "thread_id": "AAQkAa4e31d4ead054c4ea80a6dca7577d903AQAPeec34683c03645ca8dca="
+}

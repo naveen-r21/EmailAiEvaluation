@@ -1,0 +1,25 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "School Search",
+  "category": "Settling-In Services",
+  "Summary": "John Doe expresses disappointment with the school search assistance, citing generic information, lack of progress, and concerns about meeting the enrollment deadline before their move on August 15th. He requests a tailored list of schools by July 22nd.",
+  "Events": [
+    {
+      "Event name": "School Enrollment Deadline",
+      "Date": "2024-07-22",
+      "Time": "00:00",
+      "Agent Name": "Sarah",
+      "Location": ""
+    },
+    {
+      "Event name": "Move Date",
+      "Date": "2024-08-15",
+      "Time": "00:00",
+      "Agent Name": "John Doe",
+      "Location": ""
+    }
+  ],
+  "mail_id": "email-1234",
+  "thread_id": "thread-5678"
+}

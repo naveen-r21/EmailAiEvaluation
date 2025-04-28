@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Apartment Sourcing and Move-in Scheduling",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a furnished apartment in Austin for John Doe, with a move-in date of November 15th, 2024.  The agent, Sarah Lee, assures the client of continued support and provides a timeline for receiving the lease agreement.",
+  "Events": [
+    {
+      "Event name": "Apartment Secured",
+      "Date": "2024-11-15",
+      "Time": null,
+      "Property Type": "Furnished",
+      "Agent Name": "Sarah Lee",
+      "Location": "Austin"
+    }
+  ],
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "thread_id": "thread-abcdef123456"
+}

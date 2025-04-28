@@ -1,0 +1,103 @@
+{
+  "evaluation_timestamp": "2025-04-28T17:51:57.136477",
+  "overall_result": "Failed",
+  "metrics": {
+    "total_keys": 8,
+    "passed_keys": 3,
+    "failed_keys": 5,
+    "match_percentage": 37.5
+  },
+  "detailed_results": {
+    "Sentiment analysis": {
+      "status": "Passed",
+      "groundtruth_value": "green",
+      "ai_value": "green",
+      "similarity_score": 1.0
+    },
+    "overall_sentiment_analysis": {
+      "status": "Passed",
+      "groundtruth_value": "positive",
+      "ai_value": "positive",
+      "similarity_score": 1.0
+    },
+    "feature": {
+      "status": "Failed",
+      "groundtruth_value": "Apartment Sourcing and Move-in Scheduling",
+      "ai_value": "DSC First Contact with EE",
+      "similarity_score": 0.24
+    },
+    "category": {
+      "status": "Passed",
+      "groundtruth_value": "Initial Service Milestones",
+      "ai_value": "Initial Service Milestones",
+      "similarity_score": 1.0
+    },
+    "Summary": {
+      "status": "Failed",
+      "groundtruth_value": "This email confirms a furnished apartment in Austin for John Doe, with a move-in date of November 15th, 2024.  The agent, Sarah Lee, assures the client of continued support and provides a timeline for receiving the lease agreement.",
+      "ai_value": "Dear John Doe, thank you for choosing our relocation services! We're thrilled to assist you with your move to Austin. We've made excellent progress on securing your new furnished apartment. Your move-in date is scheduled for November 15th, 2024. We've also confirmed your preferred neighborhood, close to Zilker Park. We'll send you the final lease agreement and property details within 24 hours. In the meantime, please don't hesitate to reach out if you have any questions. Sincerely, Agent Sarah Lee, Relocation Services, Austin, TX",
+      "similarity_score": 0.04
+    },
+    "Events": {
+      "status": "Failed",
+      "groundtruth_value": [
+        {
+          "Event name": "Apartment Secured",
+          "Date": "2024-11-15",
+          "Time": null,
+          "Property Type": "Furnished",
+          "Agent Name": "Sarah Lee",
+          "Location": "Austin"
+        }
+      ],
+      "ai_value": [
+        {
+          "Event name": "Move-in Date",
+          "Date": "2024-11-15",
+          "Time": null,
+          "Property Type": "furnished",
+          "Agent Name": "Sarah Lee",
+          "Location": "Austin, TX"
+        }
+      ],
+      "similarity_score": 0,
+      "event_1": {
+        "status": "Failed",
+        "details": {
+          "Event name": {
+            "status": "Failed"
+          },
+          "Date": {
+            "status": "Passed"
+          },
+          "Time": {
+            "status": "Passed"
+          },
+          "Property Type": {
+            "status": "Passed"
+          },
+          "Agent Name": {
+            "status": "Passed",
+            "similarity": 1.0
+          },
+          "Location": {
+            "status": "Passed",
+            "similarity": 0.8
+          }
+        }
+      }
+    },
+    "mail_id": {
+      "status": "Failed",
+      "groundtruth_value": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "ai_value": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "similarity_score": 0.0
+    },
+    "thread_id": {
+      "status": "Failed",
+      "groundtruth_value": "thread-abcdef123456",
+      "ai_value": "thread-abcdef123456",
+      "similarity_score": 0.0
+    }
+  }
+}

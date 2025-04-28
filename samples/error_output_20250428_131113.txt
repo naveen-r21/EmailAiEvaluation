@@ -1,0 +1,40 @@
+// Failed to generate or parse JSON. Error details below:
+
+ERROR: Could not find properly formatted JSON sections in the response
+
+RAW OUTPUT:
+Input JSON:
+```json
+{
+ "mail_id": "abc123xyz",
+ "file_name": [],
+ "email": "john.doe@example.com",
+ "mail_time": "2024-07-15T10:00:00Z",
+ "body_type": "html",
+ "mail_body": "<html><body><p>Dear Relocation Services Team,</p><p>I am writing to express my extreme disappointment with the utility setup services. I was informed that all utilities would be connected by July 12th, but as of today, July 15th, I still have no electricity. I contacted Con Edison multiple times, and they stated that they haven't received any request from your company. This is a major issue, as I cannot move into my new residence without power.</p><p>Furthermore, I'm concerned about the water connection. I haven't been able to confirm with the Water Authority if the service is active. I tried calling your office, but I was on hold for over an hour. This lack of communication is unacceptable. I need confirmation that both electricity and water are connected immediately. I had expected a smoother transition, but this has been incredibly frustrating.</p><p>I await your urgent response.</p><p>Sincerely,</p><p>John Doe</p></body></html>",
+ "thread_id": "thread456",
+ "mail_summary": ""
+}
+```
+
+Output JSON:
+```json
+{
+ "Sentiment analysis": "red",
+ "overall_sentiment_analysis": "negative",
+ "feature": "Utility Setup",
+ "category": "Settling-In Services",
+ "Summary": "The email expresses strong dissatisfaction with the utility setup services, specifically regarding the lack of electricity connection and concerns about the water connection. The sender is frustrated with the lack of communication and delays.",
+ "Events": [
+  {
+   "Event name": "Utility Setup",
+   "Date": "2024-07-12",
+   "Time": "00:00",
+   "Agent Name": "Relocation Services Team",
+   "Location": "New Residence"
+  }
+ ],
+ "mail_id": "abc123xyz",
+ "thread_id": "thread456"
+}
+```

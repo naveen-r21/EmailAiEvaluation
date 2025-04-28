@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Property Viewing Confirmation",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a property viewing for the employee and provides details about the itinerary. It expresses excitement and offers assistance.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-07-18",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Sarah Miller",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA227076c461354334b6a4cb352808ed11BGad0cf22ce2AAAAAAAf37b0398d22f48d3bebdAAA=",
+  "thread_id": "AAQkAbd3b9011eec3466fa35fdeab59f7bb02AQAP34d1acaa341e462fb696="
+}

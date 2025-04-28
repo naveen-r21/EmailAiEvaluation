@@ -1,0 +1,20 @@
+API Endpoint: https://mlemailintegrationservices-gef9fwepguapgwfr.eastus2-01.azurewebsites.net/test_extraction
+Status Code: 200
+
+Request Headers: {'Content-Type': 'application/json', 'Accept': 'application/json'}
+
+Request Body:
+{
+  "mail_id": "AAMkA4713bc68b05243319501b5f4dca8ca1cBG511ec5ca6bAAAAAAA9d381bdeb7c144218693AAA=",
+  "file_name": [],
+  "email": "jim86@example.org",
+  "mail_time": "2024-08-15T00:00:00Z",
+  "body_type": "html",
+  "mail_body": "Dear [Employee Name],\n\nWe're thrilled to be assisting you with your relocation to [City name]!  We're excited to help make this transition as smooth as possible.\n\nTo get started, we've scheduled a brief phone consultation to discuss your specific needs and preferences.  During this call, we'll go over your housing requirements, timeline, and any other questions you may have.  We'll also provide you with an overview of the available resources and services we offer to support your move.\n\nWe look forward to speaking with you soon!\n\nSincerely,\n\nThe [Relocation Company Name] Team",
+  "thread_id": "AAQkA72d5a943e1e248f5a8968634b9e43727AQAP3df6e909db0b4208a2c9=",
+  "mail_summary": ""
+}
+
+Response Headers: {'Content-Length': '1070', 'Content-Type': 'application/json', 'Date': 'Mon, 28 Apr 2025 11:18:00 GMT', 'Server': 'uvicorn'}
+
+Response Text: {"Sentiment analysis":"green","overall_sentiment_analysis":"positive","feature":"DSC First Contact with EE, Phone Consultation Scheduled","category":"Initial Service Milestones","Summary":"Dear [Employee Name], We're thrilled to be assisting you with your relocation to [City name]! We're excited to help make this transition as smooth as possible. To get started, we've scheduled a brief phone consultation to discuss your specific needs and preferences. During this call, we'll go over your housing requirements, timeline, and any other questions you may have. We'll also provide you with an overview of the available resources and services we offer to support your move. We look forward to speaking with you soon! Sincerely, The [Relocation Company Name] Team","Events":[{"Event name":"Phone Consultation","Date":"null","Time":"null","Property Type":"null","Agent Name":"null","Location":"null"}],"mail_id":"AAMkA4713bc68b05243319501b5f4dca8ca1cBG511ec5ca6bAAAAAAA9d381bdeb7c144218693AAA=","thread_id":"AAQkA72d5a943e1e248f5a8968634b9e43727AQAP3df6e909db0b4208a2c9="}

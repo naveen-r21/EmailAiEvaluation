@@ -1,0 +1,31 @@
+Input JSON:
+{
+ "mail_id": "email123",
+ "file_name": [],
+ "email": "john.doe@relocation.com",
+ "mail_time": "2024-11-15T14:30:00Z",
+ "body_type": "text",
+ "mail_body": "Subject: Welcome to Chicago!\n\nDear [Client Name],\n\nWelcome to Chicago! We're thrilled to assist you with your relocation.\n\nWe've scheduled a property viewing for you on November 20, 2024, at 10:00 AM at 123 Main Street, Chicago. Please confirm if this time works for you.\n\nWe will also schedule a meeting to discuss utility setup options next week.\n\nBest regards,\nJohn Doe\nRelocation Services",
+ "thread_id": "thread456",
+ "mail_summary": ""
+}
+
+Output JSON:
+{
+ "Sentiment analysis": "green",
+ "overall_sentiment_analysis": "positive",
+ "feature": "Housing Assistance and Utility Setup",
+ "category": "Settling-In Services",
+ "Summary": "Relocation Services confirms a property viewing and mentions scheduling a utility setup discussion.",
+ "Events": [
+   {
+     "Event name": "House Visit",
+     "Date": "2024-11-20",
+     "Time": "10:00",
+     "Agent Name": "John Doe",
+     "Location": "Chicago"
+   }
+ ],
+ "mail_id": "email123",
+ "thread_id": "thread456"
+}

@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "Property Viewing Scheduling and Management",
+  "category": "Initial Service Milestones",
+  "Summary": "The client expresses strong dissatisfaction with a property viewing, citing misleading photos, an unprepared and late agent, and overall poor service.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-03-15",
+      "Time": "02:00 PM",
+      "Property Type": null,
+      "Agent Name": "Agent Smith",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkAfeae69d42a7942f58deb988253886483BG0c00a845e9AAAAAAA2f77718db76f42ec8e05AAA=",
+  "thread_id": "AAQkA4b624c9e888f4f6aa8c04811418aac8fAQAPc53e1fa7346c42c49bdb="
+}

@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Property Viewing Scheduling",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms the scheduling of a property viewing for the employee in London. It expresses excitement and offers flexibility in adjusting the schedule.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-07-18",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Sarah Johnson",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA8d215fac485c4e5eb1b44ff4201b79aaBG43e75ff6efAAAAAAAb17c44645148406ab0a2AAA=",
+  "thread_id": "AAQkA5502fd314af947bc8987cc26dca4cbf8AQAPa514112fd0e34e0187e9="
+}

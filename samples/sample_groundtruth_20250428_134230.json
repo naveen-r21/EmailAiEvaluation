@@ -1,0 +1,18 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "School Search",
+  "category": "Settling-In Services",
+  "Summary": "John Doe is excited to assist with the client's school search and proposes a call to discuss school options.",
+  "Events": [
+    {
+      "Event name": "School Search Consultation",
+      "Date": "2024-07-22",
+      "Time": "14:00",
+      "Agent Name": "John Doe",
+      "Location": "N/A"
+    }
+  ],
+  "mail_id": "email-1234",
+  "thread_id": "thread-5678"
+}

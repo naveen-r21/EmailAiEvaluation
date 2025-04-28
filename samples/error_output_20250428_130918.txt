@@ -1,0 +1,40 @@
+// Failed to generate or parse JSON. Error details below:
+
+ERROR: Could not find properly formatted JSON sections in the response
+
+RAW OUTPUT:
+Input JSON:
+```json
+{
+ "mail_id": "email123",
+ "file_name": [],
+ "email": "relocation_specialist@example.com",
+ "mail_time": "2024-07-15T10:00:00Z",
+ "body_type": "html",
+ "mail_body": "<html><body><p>Dear [Client Name],</p><p>We are absolutely delighted to assist you with setting up your utilities at your new residence! We're so excited for you to settle in. </p><p>To ensure a smooth transition, we suggest scheduling appointments with the following providers:</p><ul><li><b>Electricity:</b> PowerUp Utilities (Contact: 555-123-4567)</li><li><b>Water:</b> AquaFlow Services (Contact: 555-987-6543)</li><li><b>Internet:</b> SuperNet Broadband (Contact: 555-246-8013)</li></ul><p>Would any of the following dates work for scheduling these appointments? July 22nd, July 24th, or July 26th?</p><p>Please let us know if you have any questions. We are pleased to help in any way we can!</p><p>Best regards,<br>The Relocation Team</p></body></html>",
+ "thread_id": "thread456",
+ "mail_summary": ""
+}
+```
+
+Output JSON:
+```json
+{
+ "Sentiment analysis": "green",
+ "overall_sentiment_analysis": "positive",
+ "feature": "Utility Setup",
+ "category": "Settling-In Services",
+ "Summary": "The email discusses setting up utilities (electricity, water, internet) for a new residence and suggests potential appointment dates with providers.",
+ "Events": [
+  {
+  "Event name": "Utility Setup Appointment",
+  "Date": "2024-07-22",
+  "Time": "00:00",
+  "Agent Name": "The Relocation Team",
+  "Location": "New Residence"
+  }
+ ],
+ "mail_id": "email123",
+ "thread_id": "thread456"
+}
+```

@@ -1,0 +1,20 @@
+API Endpoint: https://mlemailintegrationservices-gef9fwepguapgwfr.eastus2-01.azurewebsites.net/test_extraction
+Status Code: 200
+
+Request Headers: {'Content-Type': 'application/json', 'Accept': 'application/json'}
+
+Request Body:
+{
+  "mail_id": "AAMkAbacd89be607941868b7953402940e976BG0827094905AAAAAAA458f9aa3ee954a9b8734AAA=",
+  "file_name": [],
+  "email": "luis46@example.org",
+  "mail_time": "2024-03-23T00:00:00Z",
+  "body_type": "html",
+  "mail_body": "Dear [Employee Name],\n\nWe're thrilled to be assisting you with your relocation to [City name]!  We're excited to get started and make this transition as smooth as possible for you.\n\nTo help us best understand your needs and preferences, we've scheduled a brief phone consultation to discuss your relocation requirements in more detail.  During this call, we can answer any questions you may have and begin the process of finding the perfect property for you.\n\nThe consultation is scheduled for [Date] at [Time] with [Agent Name].  Please let us know if this time works for you, or if you'd prefer an alternative time. We look forward to speaking with you soon!\n\nSincerely,\nThe [Relocation Company Name] Team",
+  "thread_id": "AAQkA4574fd016de7460fa7abcdfd3a8f6cbbAQAP755d69a316cc48f38ce8=",
+  "mail_summary": ""
+}
+
+Response Headers: {'Content-Length': '1000', 'Content-Type': 'application/json', 'Date': 'Mon, 28 Apr 2025 10:22:13 GMT', 'Server': 'uvicorn'}
+
+Response Text: {"Sentiment analysis":"green","overall_sentiment_analysis":"positive","feature":"DSC First Contact with EE, Phone Consultation Scheduled","category":"Initial Service Milestones","Summary":"Dear [Employee Name], We're thrilled to be assisting you with your relocation to [City name]! We're excited to get started and make this transition as smooth as possible for you. To help us best understand your needs and preferences, we've scheduled a brief phone consultation to discuss your relocation requirements in more detail. The consultation is scheduled for [Date] at [Time] with [Agent Name]. Please let us know if this time works for you. Sincerely, The [Relocation Company Name] Team","Events":[{"Event name":"Phone Consultation","Date":"[Date]","Time":"[Time]","Property Type":null,"Agent Name":"[Agent Name]","Location":null}],"mail_id":"AAMkAbacd89be607941868b7953402940e976BG0827094905AAAAAAA458f9aa3ee954a9b8734AAA=","thread_id":"AAQkA4574fd016de7460fa7abcdfd3a8f6cbbAQAP755d69a316cc48f38ce8="}

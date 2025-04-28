@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Housing Search & Agent Assignment",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms the initiation of relocation services for John Doe to Austin, TX.  Agent Sarah Miller is assigned, and a search for furnished apartments has begun.  A selection of properties will be sent within 48 hours.",
+  "Events": [
+    {
+      "Event name": "Housing search initiated",
+      "Date": null,
+      "Time": null,
+      "Property Type": "Furnished",
+      "Agent Name": "Sarah Miller",
+      "Location": "Austin"
+    }
+  ],
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "thread_id": "thread-abcdef123456"
+}

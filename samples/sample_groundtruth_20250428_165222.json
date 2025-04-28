@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "Property Viewing Scheduling and Management",
+  "category": "Initial Service Milestones",
+  "Summary": "The email expresses extreme dissatisfaction with a property viewing, citing the property's poor condition, the agent's unprofessionalism, and a request for compensation.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Agent Smith",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA035a5492c6eb4ff2b601c9dc1e3069f0BG1dd17e9bc6AAAAAAAf73eb574b06b43929b95AAA=",
+  "thread_id": "AAQkA963031735e4a450fb1ffd5b786347c60AQAPb0809b717b694bbca6b3="
+}

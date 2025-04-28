@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Phone Consultation Scheduled",
+  "category": "Initial Service Milestones",
+  "Summary": "Dear [Employee Name], We're thrilled to be assisting you with your relocation to [City name]! We're excited to get started and make this transition as smooth as possible for you. To help us understand your needs better and begin the process, we've scheduled a brief phone consultation to discuss your preferences and answer any questions you may have. This initial call will help us tailor our services to perfectly match your requirements. The consultation is scheduled for [Date] at [Time] with [Agent Name]. Please let us know if this time works for you, or if you'd prefer an alternative time. We look forward to speaking with you soon! Sincerely, The Relocation Team",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "[Date]",
+      "Time": "[Time]",
+      "Property Type": null,
+      "Agent Name": "[Agent Name]",
+      "Location": null
+    }
+  ],
+  "mail_id": "AAMkAbc58de61d8ff43acb8a8c467a19abac2BG7f5d932a87AAAAAAAc2ab9e6c0a244a0284ebAAA=",
+  "thread_id": "AAQkAcb954b7895e04b80b6d15838eeb08f7cAQAPfcd71c4fd9d847988d3a="
+}

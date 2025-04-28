@@ -1,0 +1,18 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "School Search",
+  "category": "Settling-In Services",
+  "Summary": "John Doe expresses satisfaction with the school search assistance provided and looks forward to scheduling school visits.",
+  "Events": [
+    {
+      "Event name": "Schedule Call for School Visits",
+      "Date": "2024-07-22",
+      "Time": "00:00",
+      "Agent Name": "Relocation Team",
+      "Location": "Chicago"
+    }
+  ],
+  "mail_id": "email-1234",
+  "thread_id": "thread-5678"
+}

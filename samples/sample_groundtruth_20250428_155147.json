@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Initial Relocation Consultation",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms a phone consultation to discuss relocation needs and preferences with the employee. It sets the stage for a positive and smooth relocation experience.",
+  "Events": [
+    {
+      "Event name": "Phone Consultation",
+      "Date": "2024-03-15",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "Sarah Chen",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkAbacd89be607941868b7953402940e976BG0827094905AAAAAAA458f9aa3ee954a9b8734AAA=",
+  "thread_id": "AAQkA4574fd016de7460fa7abcdfd3a8f6cbbAQAP755d69a316cc48f38ce8="
+}

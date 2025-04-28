@@ -1,0 +1,116 @@
+{
+  "overall_result": "Partially Passed",
+  "metrics": {
+    "total_keys": 8,
+    "passed_keys": 6,
+    "failed_keys": 2,
+    "match_percentage": 75.0,
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1_score": 0.86
+  },
+  "detailed_results": {
+    "Sentiment analysis": {
+      "status": "Passed",
+      "similarity_score": 1.0,
+      "reasoning": "Exact match."
+    },
+    "overall_sentiment_analysis": {
+      "status": "Passed",
+      "similarity_score": 1.0,
+      "reasoning": "Exact match."
+    },
+    "feature": {
+      "status": "Failed",
+      "similarity_score": 0.0,
+      "reasoning": "The AI extracted a different feature.  'DSC First Contact with EE' is not semantically equivalent to 'Housing search and relocation specialist assignment'."
+    },
+    "category": {
+      "status": "Passed",
+      "similarity_score": 1.0,
+      "reasoning": "Exact match."
+    },
+    "Summary": {
+      "status": "Passed",
+      "similarity_score": 0.8,
+      "reasoning": "The AI Summary captures the main points (relocation to Austin, Agent Sarah Miller, furnished apartment search, selection by end of week).  While the wording differs, the semantic meaning is largely the same."
+    },
+    "Events": {
+      "status": "Failed",
+      "reasoning": "The AI failed to extract any events, while the ground truth contains two.",
+      "event_details": [
+        {
+          "event_index": 0,
+          "status": "Failed",
+          "field_comparisons": {
+            "Event name": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Date": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Time": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Property Type": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Agent Name": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Location": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            }
+          }
+        },
+        {
+          "event_index": 1,
+          "status": "Failed",
+          "field_comparisons": {
+            "Event name": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Date": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Time": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Property Type": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Agent Name": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            },
+            "Location": {
+              "status": "Failed",
+              "similarity_score": 0.0
+            }
+          }
+        }
+      ]
+    },
+    "mail_id": {
+      "status": "Passed",
+      "similarity_score": 1.0,
+      "reasoning": "Exact match."
+    },
+    "thread_id": {
+      "status": "Passed",
+      "similarity_score": 1.0,
+      "reasoning": "Exact match."
+    }
+  },
+  "evaluation_timestamp": "2025-04-28T18:12:11.506271"
+}

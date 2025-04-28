@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "green",
+  "overall_sentiment_analysis": "positive",
+  "feature": "Apartment Viewing Scheduling",
+  "category": "Initial Service Milestones",
+  "Summary": "This email confirms an apartment viewing appointment in Austin for John on November 4th at 2:00 PM. Agent Sarah will be present. The apartment is furnished.",
+  "Events": [
+    {
+      "Event name": "Apartment Viewing",
+      "Date": "2024-11-04",
+      "Time": "02:00 PM",
+      "Property Type": "Furnished",
+      "Agent Name": "Sarah",
+      "Location": "Austin"
+    }
+  ],
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "thread_id": "thread-abcdef123456"
+}

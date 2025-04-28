@@ -1,0 +1,10 @@
+{
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "file_name": [],
+  "email": "relocation@example.com",
+  "mail_time": "2024-10-27T14:30:00Z",
+  "body_type": "html",
+  "mail_body": "Dear John Doe,\n\nThank you for choosing our relocation services! We're thrilled to assist you with your move to Austin.  Agent Sarah Miller will be your dedicated relocation specialist. She's already started working on securing a furnished apartment for you near downtown, as per your request.  We anticipate having a few options for you to review by the end of the week.  We'll schedule a call to discuss these options in detail on Monday, October 28th at 2:00 PM CST.  In the meantime, please don't hesitate to reach out if you have any questions.\n\nSincerely,\n\nSarah Miller\nRelocation Services\nAustin, TX",
+  "thread_id": "thread-12345",
+  "mail_summary": "Confirmation email regarding relocation to Austin, including apartment search and upcoming call."
+}

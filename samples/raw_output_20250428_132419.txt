@@ -1,0 +1,35 @@
+```json
+Input JSON:
+{
+ "mail_id": "email-1234",
+ "file_name": [],
+ "email": "john.doe@example.com",
+ "mail_time": "2024-07-15T10:00:00Z",
+ "body_type": "text",
+ "mail_body": "Subject: Excited about your School Search Assistance!\n\nDear [Client Name],\n\nI hope this email finds you well.\n\nI'm absolutely thrilled to hear that you're considering our school search assistance services! We're so excited to help you find the perfect educational environment for your children in [City Name].\n\nWe've already started compiling a list of top-rated schools based on your initial preferences. We're particularly pleased with the options we've found in the [Neighborhood] area, which boasts excellent academic reputations and extracurricular activities.\n\nI'm looking forward to discussing these options with you in more detail during our call on July 22nd at 2:00 PM. We can also explore additional criteria and refine our search further.\n\nPlease let me know if this time works for you. We are eager to assist you in this important step of your relocation.\n\nBest regards,\nJohn Doe\nRelocation Specialist",
+ "thread_id": "thread-5678",
+ "mail_summary": ""
+}
+```
+
+```json
+Output JSON:
+{
+ "Sentiment analysis": "green",
+ "overall_sentiment_analysis": "positive",
+ "feature": "School Search",
+ "category": "Settling-In Services",
+ "Summary": "John Doe expresses excitement about assisting with the client's school search in [City Name], mentioning options in the [Neighborhood] area. A call is scheduled for July 22nd to discuss further.",
+ "Events": [
+  {
+   "Event name": "School Search Consultation",
+   "Date": "2024-07-22",
+   "Time": "14:00",
+   "Agent Name": "John Doe",
+   "Location": "[City Name]"
+  }
+ ],
+ "mail_id": "email-1234",
+ "thread_id": "thread-5678"
+}
+```

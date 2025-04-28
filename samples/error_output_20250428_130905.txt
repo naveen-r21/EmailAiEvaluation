@@ -1,0 +1,40 @@
+// Failed to generate or parse JSON. Error details below:
+
+ERROR: Could not find properly formatted JSON sections in the response
+
+RAW OUTPUT:
+Input JSON:
+```json
+{
+ "mail_id": "email123",
+ "file_name": [],
+ "email": "john.doe@relocationservices.com",
+ "mail_time": "2024-07-15T10:00:00Z",
+ "body_type": "html",
+ "mail_body": "<html><body><p>Dear Jane,</p><p>I'm absolutely delighted to help you get settled into your new home! I'm so excited to assist you with setting up your utilities. To get started, could you please let me know your preferred dates for appointments?</p><p>For electricity, we usually work with 'BrightSpark Energy'. They offer great rates and excellent customer service. For water, 'AquaPure Services' is the primary provider in your area.  We can also help you set up your gas with 'NaturalGas Solutions'. Finally, for internet, 'SpeedNet' is a popular choice. </p><p>Please let me know what dates work best for you, and I'll be happy to schedule everything.  I'm pleased to make this process as smooth as possible!</p><p>Best regards,<br>John Doe<br>Relocation Services</p></body></html>",
+ "thread_id": "thread456",
+ "mail_summary": ""
+}
+```
+
+Output JSON:
+```json
+{
+ "Sentiment analysis": "green",
+ "overall_sentiment_analysis": "positive",
+ "feature": "Utility Setup",
+ "category": "Settling-In Services",
+ "Summary": "The email expresses excitement and offers assistance with setting up utilities for the recipient's new home, inquiring about preferred dates for appointments with different utility providers.",
+ "Events": [
+  {
+   "Event name": "Utility Setup",
+   "Date": "2024-07-18",
+   "Time": "14:00",
+   "Agent Name": "John Doe",
+   "Location": "Recipient's New Residence"
+  }
+ ],
+ "mail_id": "email123",
+ "thread_id": "thread456"
+}
+```

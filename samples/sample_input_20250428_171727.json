@@ -1,0 +1,10 @@
+{
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "file_name": [],
+  "email": "relocation@example.com",
+  "mail_time": "2024-10-27T14:30:00Z",
+  "body_type": "html",
+  "mail_body": "<html><body><p>Dear Mr. Smith,</p><p>We are thrilled to be assisting you with your relocation to Austin, Texas!  This email confirms your upcoming move and outlines the next steps in the process.</p><p>As discussed, your dedicated relocation specialist, Sarah Jones, will be in touch with you on Monday, October 28th at 10:00 AM CST to finalize your housing preferences and discuss your preferred move-in date.  She will also be coordinating the transportation of your belongings.</p><p>We have already secured a furnished apartment for you near downtown Austin, pending your final approval.  The address is 123 Main Street, Austin, TX 78701.  You can view photos and details on our portal at [link to portal].</p><p>We are committed to making your transition as smooth as possible.  Please don't hesitate to reach out to Sarah or myself if you have any questions.</p><p>Sincerely,<br>The Relocation Team<br>Example Relocation Services</p></body></html>",
+  "thread_id": "thread_a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "mail_summary": "Confirmation email outlining next steps in relocation to Austin, including contact with relocation specialist and apartment details."
+}

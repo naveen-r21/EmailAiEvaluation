@@ -1,0 +1,10 @@
+{
+  "mail_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "file_name": [],
+  "email": "relocation@example.com",
+  "mail_time": "2024-10-27T14:30:00Z",
+  "body_type": "html",
+  "mail_body": "<html><body><p>Dear John,</p><p>Thank you for choosing our relocation services! We're thrilled to assist you with your move to Austin.  We've made excellent progress on securing your new furnished apartment. </p><p>Your apartment viewing is scheduled for Monday, November 4th, at 2:00 PM.  Agent Sarah will be there to meet you and answer any questions you may have. The address will be sent to you separately in a confirmation email. </p><p>We're committed to making your transition as smooth as possible. Please don't hesitate to reach out if you have any questions or concerns. </p><p>Sincerely,<br>The Relocation Team</p></body></html>",
+  "thread_id": "thread-abcdef123456",
+  "mail_summary": "Confirmation email for apartment viewing in Austin."
+}

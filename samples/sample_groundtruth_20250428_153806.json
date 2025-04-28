@@ -1,0 +1,19 @@
+{
+  "Sentiment analysis": "red",
+  "overall_sentiment_analysis": "negative",
+  "feature": "Property Viewing Follow-up",
+  "category": "Initial Service Milestones",
+  "Summary": "The relocation specialist informs the client that the property search is not going well due to limited options and potentially unrealistic expectations. The specialist suggests adjusting requirements or budget.",
+  "Events": [
+    {
+      "Event name": "Property Viewing",
+      "Date": "2024-07-18",
+      "Time": "10:00 AM",
+      "Property Type": null,
+      "Agent Name": "John Smith",
+      "Location": "London"
+    }
+  ],
+  "mail_id": "AAMkA8533878275744dc0b0c4e7c4883e0a74BGa943d6834dAAAAAAA9dd3eb5650924d468d54AAA=",
+  "thread_id": "AAQkAe787c3d32a0e42a4a0d89988b819ad2cAQAP3115ae7da3d546388ee7="
+}
